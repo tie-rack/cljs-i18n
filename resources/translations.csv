@@ -1,0 +1,10 @@
+key,en,es,pig-latin
+greeting,Hello,Hola,Ellohay
+cycle-languages,Cycle,Gire,Yclecay
+next-button,Next,Avance,Extnay
+prev-button,Back,Vuelva,Ackbay
+color-red,Red,Rojo,Edray
+color-yellow,Yellow,Amarillo,Ellowyay
+color-green,Green,Verde,Eengray
+color-blue,Blue,Azur,Ueblay
+about,"This is an example how a CSV-based, function-backed i18n system might work.","Hola. Soy Chris. Hablo un poco de español. Lo siento.","Isthay isway anway exampleway ofway away anslationtray ystemsay ouldcay orkway."
